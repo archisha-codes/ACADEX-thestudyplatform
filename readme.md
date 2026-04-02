@@ -6,7 +6,7 @@ A modern, organized, and student-friendly academic learning platform providing *
 <<<<<<< HEAD
 =======
 **CHECK IT OUT AT:**
- https://archisha-codes.github.io/study-platform/
+ (https://archisha-codes.github.io/ACADEX-thestudyplatform/)
 >>>>>>> d820831db5a43813b34e224b8ef7c5b1711b216c
 
 ## 🚀 **About the Project**
